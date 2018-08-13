@@ -10,3 +10,9 @@ body {
   border: solid 10px;
   background-color:white;
 }
+
+#spongebob{
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+}
