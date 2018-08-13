@@ -1,1 +1,12 @@
 /* add CSS class and element and selectors here */
+body {
+  font-size: 300%;
+  background-color: blue;
+}
+
+.sample{
+  font-size: 200%;
+  color:#B4FFFF;
+  border: solid 10px;
+  background-color:white;
+}
